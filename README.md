@@ -8,5 +8,5 @@ Simple discord message logger made in Python.
 - 1 | Put token in config.json
 - 2 | Run program Then Done.
 
-![alt text](https://imgur.com/OniXPvA)
+![alt text](https://imgur.com/OniXPvA.png)
 
