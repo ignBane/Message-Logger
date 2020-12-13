@@ -5,6 +5,6 @@ Simple discord message logger made in Python.
 - Discord, Colorama, Json
 
 # How To Use
-1 | Put token in config.json
-2 | Run program Then Done.
+- 1 | Put token in config.json
+- 2 | Run program Then Done.
 
